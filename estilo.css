@@ -95,7 +95,7 @@ th, td {
   text-align: center;
 }
 
-/*quando o mouse passar, a cor do link mudará para branco*/
+/*quando o mouse passar, a cor do link mudará para vermelho*/
 
 a:hover {
 color:rgb(211, 0, 0);
